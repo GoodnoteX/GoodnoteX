@@ -7,7 +7,7 @@
 <div align="center">
   <!-- 第一行 -->
   <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk1NzgzMjY3OQ==&action=getalbum&album_id=3785370097922080771&scene=126#wechat_redirect">
-    <img src="https://github.com/GoodnoteX/GoodnoteX/blob/main/File/ML.png" width="350">
+    <img src="https://github.com/GoodnoteX/GoodnoteX/blob/main/File/ML.jpg" width="350">
   </a>
   <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk1NzgzMjY3OQ==&action=getalbum&album_id=3787967363480551430&scene=126#wechat_redirect">
     <img src="https://github.com/GoodnoteX/GoodnoteX/blob/main/File/DL.png" width="350">
